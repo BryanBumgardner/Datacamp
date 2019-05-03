@@ -40,3 +40,7 @@ Upcoming changes:
 This basic analysis is a simple exploration of Lego color and size data over the years.
 
 It needs to be improved with lots of rigor, potentially new data.
+
+## Recreating John Snow's Cholera Map
+
+A visual map analysis of John Snow's famous cholera map, using things like Bokeh and Leafly for some basic visualization and lots of inline text. Completed in about an hour or so, not very complex.
